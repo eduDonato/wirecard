@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Wirecard</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email or login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="str_criar_nova_conta"><u>Criar nova conta</u></string>
+    <string name="str_esqueceu_senha"><u>Esqueci minha senha</u></string>
+    <string name="str_acessar_minha_conta">Acessar minha conta</string>
+    <string name="braz_coin">R$</string>
+    <string name="str_num_pagamentos">Número de pagamentos</string>
+    <string name="str_meu_recebimento">Meu recebimento</string>
+    <string name="str_taxas">Taxas</string>
+    <string name="str_valor_total">Valor total</string>
+    <string name="str_resumo_financeiro">Resumo financeiro</string>
+    <string name="str_status">Status</string>
+    <string name="str_criado_em">Criado em:</string>
+    <string name="str_pedidos">Pedidos</string>
+    <string name="str_usuario">Usuário:</string>
+    <string name="str_id">ID:</string>
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
+    <string name="title_detalhes">Detalhes</string>
+    <string name="title_pedidos">Pedidos</string>
+    <string name="action_logout">Logout</string>
+</resources>
